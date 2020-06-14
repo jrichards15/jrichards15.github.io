@@ -4,7 +4,8 @@ date: 2020-06-13 08:00:00
 layout: page
 published: true
 ---
-## A Simple Program to Prove Countability of Rationals
+
+### A Simple Program to Prove Countability of Rationals
 This was a small experiment to enumerate all rational numbers of form ***x/y***
 utilizing a set of piecewise equations as a proof that rationals are countable. 
 I programmed this in Ruby for ease of implementation. This includes a fraction class 
