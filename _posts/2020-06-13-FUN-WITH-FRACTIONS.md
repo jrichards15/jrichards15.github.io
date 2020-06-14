@@ -1,9 +1,9 @@
 ---
-layout: page
 title: "Fun With Fractions"
 date: 2020-06-13 08:00:00
-link: /fun-with-fractions
-categories: projects
+link: /fractions/
+layout: default
+published: true
 ---
 
 # Fun with Fractions!
