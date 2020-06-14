@@ -12,5 +12,11 @@ I programmed this in Ruby for ease of implementation. This includes a fraction c
 and simplification utilizing Euclid's GCD algorithm. Some of the theoretical backing 
 came from StackExchange, and is cited in the readme for the project.  
 
+The theoretical backing relies on the use of a breadth-first traversal of the Calkin-Wilf
+tree utilizing Stern's diatomic sequence to enumerate the rationals. The nth rational is therfore
+generated using the definition of the __fusc()__ function, with the rational generated as
+```fusc(n)/fusc(n+1)```. As such, the sequence forms the numerator and denominator as specified by
+the Calkin-Wilf tree. The program can convert between both rational numbers and their associated labels via command-line arguments.
+
 The project itself can be found here:
 [Fractions!](https://github.com/jrichards15/ruby-fractions)
