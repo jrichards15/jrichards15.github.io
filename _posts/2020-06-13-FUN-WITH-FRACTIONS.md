@@ -1,7 +1,7 @@
 ---
-title: "Fun With Fractions"
+title: Fun With Fractions
 date: 2020-06-13 08:00:00
-layout: default
+layout: page
 published: true
 ---
 

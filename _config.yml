@@ -22,7 +22,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://jrichards.github.io'
 baseurl: ''
 title: A (Mostly Empty) Student Portfolio
 description: Welcome! This is a showcase of all of my work thus far. It consists primarily of personal projects and other interesting (I hope!) tidbits. All student work isn't allowed to be shared, hence the somewhat empty website.
@@ -41,7 +41,8 @@ navigation_header:
   url: /blog/
 - title: Resume
   url: /resume/
-
+- title: Radio
+  url: /radio/
 # Footer nav
 navigation_footer:
 - title: Back to top
