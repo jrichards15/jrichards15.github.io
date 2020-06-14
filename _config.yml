@@ -43,6 +43,7 @@ navigation_header:
   url: /resume/
 - title: Radio
   url: /radio/
+
 # Footer nav
 navigation_footer:
 - title: Back to top
@@ -54,6 +55,4 @@ collections:
     title: Posts & Projects
     output: true
     description: "A collection of personal projects and general ideas."
-    feature_text: |
-      Posts
     feature_image: "https://picsum.photos/2560/600?image=866"
