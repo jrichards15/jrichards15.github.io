@@ -27,7 +27,7 @@ baseurl: ''
 title: A (Mostly Empty) Student Portfolio
 description: Welcome! This is a showcase of all of my work thus far. It consists primarily of personal projects and other interesting (I hope!) tidbits. All student work isn't allowed to be shared, hence the somewhat empty website.
 permalink: pretty
-logo: "/_site/assets/img/icon.png"
+logo: "icon.png"
 
 # Pagination
 paginate: 5
