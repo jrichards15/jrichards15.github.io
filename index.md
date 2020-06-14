@@ -10,4 +10,6 @@ For projects and general notes, see the __Blog__ section for more information. T
 
 ## Ongoing Projects (without Blog posts)
 - Modular Synthesizer (fabrication & design), with the end goal of producing a DIY performance-ready musical instrument.
+	* Currently building Mutable Instruments Plaits, Veils, and Ripples. See [here](https://mutable-instruments.net/) for more information on the modules. Open-source information can be found on Emilie Gillet's [GitHub](https://github.com/pichenettes/eurorack).
+	* Currently designing a sampler based on an obsolete answering machine IC and an input module to convert line levels to be compatible with standard Eurorack levels.
 - Lyrics Checker utilizing Spotify Web API, used to filter explicit music according to FCC decency guidelines.
