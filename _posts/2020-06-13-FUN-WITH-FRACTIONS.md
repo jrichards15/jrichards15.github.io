@@ -4,6 +4,7 @@ title: "Fun With Fractions"
 date: 2020-06-13 08:00:00 -0000
 categories: projects
 ---
+
 # Fun with Fractions!
 This was a small experiment to enumerate all rational numbers of form ***x/y***
 utilizing a set of piecewise equations as a proof that rationals are countable. 
