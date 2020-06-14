@@ -1,5 +1,5 @@
 ---
-layout: audio_page
+layout: audio
 title: Radio Show
 ---
 
@@ -32,5 +32,5 @@ station.
 - November 8th, 2019    
 [Spotify Playlist](https://open.spotify.com/playlist/2ogrregS42DIyFR6qLXrRN?si=iG1yoOPbR_-y2BEHVPHOIA)
 - November 1st, 2019  
-[Show](https://jrichards15.github.io/audio/Point_of_Failure_11_1_2019.mp3?autoplay=0&loop=0&controls=1)  
-[Spotify Playlist](https://open.spotify.com/playlist/6ASmdrLlmTdnTOt8NHZigt?si=0aZmkxZjSoCfccw8PunO-g)
+[Spotify Playlist](https://open.spotify.com/playlist/6ASmdrLlmTdnTOt8NHZigt?si=0aZmkxZjSoCfccw8PunO-g) / 
+[Show](/assets/audio/Point_of_Failure_11_1_2019.mp3?autoplay=0&loop=0&controls=1)  

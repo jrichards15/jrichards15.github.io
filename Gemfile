@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8"
-gem "jekyll-sitemap", "~> 0.13"
+gem "jekyll-sitemap", "~> 1.4.0"
 gem "jekyll-mentions", "~> 1.2"
 gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-seo-tag", "~> 2.3"

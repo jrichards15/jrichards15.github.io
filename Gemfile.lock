@@ -243,6 +243,16 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.8)
+  jekyll-default-layout (~> 0.1)
+  jekyll-feed (~> 0.9)
+  jekyll-mentions (~> 1.2)
+  jekyll-paginate (~> 1.1)
+  jekyll-redirect-from (~> 0.12)
+  jekyll-remote-theme (~> 0.3)
+  jekyll-seo-tag (~> 2.3)
+  jekyll-sitemap (~> 1.4.0)
+  jemoji (~> 0.9)
 
 BUNDLED WITH
    1.17.3

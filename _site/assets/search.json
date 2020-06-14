@@ -1,0 +1,54 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Fun With Fractions",
+        "excerpt": "A Simple Program to Prove Countability of Rationals\nThis was a small experiment to enumerate all rational numbers of form x/y\nutilizing a set of piecewise equations as a proof that rationals are countable. \nI programmed this in Ruby for ease of implementation. This includes a fraction class \nand simplification utilizing Euclid’s GCD algorithm. Some of the theoretical backing \ncame from StackExchange, and is cited in the readme for the project.\n\nThe project itself can be found here:\nFractions!\n",
+        "content": "A Simple Program to Prove Countability of Rationals\nThis was a small experiment to enumerate all rational numbers of form x/y\nutilizing a set of piecewise equations as a proof that rationals are countable. \nI programmed this in Ruby for ease of implementation. This includes a fraction class \nand simplification utilizing Euclid’s GCD algorithm. Some of the theoretical backing \ncame from StackExchange, and is cited in the readme for the project.\n\nThe project itself can be found here:\nFractions!\n",
+        "url": "/2020/06/13/FUN-WITH-FRACTIONS/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Jack Richards",
+    "excerpt": "\n",
+    "content": "Computer Engineering Senior @ UMD\nI’m a computer engineering senior with interest in embedded computing and audio processing. This website is a showcase of all my small projects, some interesting and some noticeably less so.\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Radio Show",
+    "excerpt": "\n",
+    "content": "Point of Failure\nI’m a DJ for UMD’s on-campus, student-run radio station! I broadcast all semester long. \nFor more information on UMD’s radio station, see WMUC’s official website here. My show is \nonce-weekly for an hour. Below is an archive of all previous broadcasts, both on WMUC’s digital (streaming) and FM (88.1) \nstation.\n\nWMUC FM (Spring ‘20)\n\n  February 28th, 2020\nSpotify Playlist\n  February 21st 2020\nSpotify Playlist\n  February 14th, 2020\nSpotify Playlist\n  February 7th, 2020\nSpotify Playlist\n  January 31st, 2020\nSpotify Playlist\n\n\nWMUC Digital (Fall ‘19)\n\n  December 6th, 2019\nSpotify Playlist\n  November 29th, 2019\n  November 22nd, 2019\nSpotify Playlist\n  November 15th, 2019\nSpotify Playlist\n  November 8th, 2019  \nSpotify Playlist\n  November 1st, 2019\nSpotify Playlist / \nShow\n\n",
+    "url": "/radio/"
+  },
+  
+  {
+    "title": "Resume",
+    "excerpt": "\n",
+    "content": "I need to update this!\n",
+    "url": "/resume/"
+  }
+  
+]
+

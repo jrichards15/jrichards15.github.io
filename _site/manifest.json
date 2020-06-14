@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "A (Mostly Empty) Student Portfolio",
+  "short_name": "A(MostlyEmpty)StudentPortfolio",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
