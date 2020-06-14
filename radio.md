@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: audio_page
 title: Radio Show
 ---
 
@@ -13,4 +13,6 @@ station.
 I'm going to embed the audio files if I can figure it out.
 
 ### WMUC Digital (Fall '19)
-See above.
+- November 11th, 2019
+[show](/_site/assets/audio/Point_of_Failure_11_1_2019.mp3)
+[Spotify Playlist](https://open.spotify.com/playlist/6ASmdrLlmTdnTOt8NHZigt?si=0aZmkxZjSoCfccw8PunO-g)
