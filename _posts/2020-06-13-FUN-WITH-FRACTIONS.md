@@ -1,13 +1,9 @@
 ---
 title: "Fun With Fractions"
 date: 2020-06-13 08:00:00
-<<<<<<< HEAD
 link: /fractions/
 layout: default
 published: true
-=======
-link: /fun-with-fractions
->>>>>>> fbde6f27b6d5dd87f2aac08947b11ca1bc7e0445
 ---
 
 # Fun with Fractions!
