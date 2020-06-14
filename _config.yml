@@ -50,9 +50,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Posts & Projects
     output: true
-    description: "My thoughts and ideas"
+    description: "A collection of personal projects and general ideas."
     feature_text: |
-      Welcome to my blog
+      Posts
     feature_image: "https://picsum.photos/2560/600?image=866"
