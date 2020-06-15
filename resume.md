@@ -3,19 +3,23 @@ layout: page
 title: Resume
 ---
 A PDF version of this page is available [here](/assets/misc/JR_Resume_S2020.pdf).  
-__Last updated: June 13th, 2020__
+__Last updated: June 14th, 2020__
 
 ## Education
 
 ### University of Maryland, College Park | Clark School of Engineering (Expected May 2021)
 - BS, Computer Engineering; Cumulative GPA: 3.9
-- Courses: Algorithms, Digital Logic Design, Computer Architecture, Signals & System Theory, Analog & Digital Electronics, Compilers, Organization of Programming Languages, Introduction to Computer Systems.
+- Courses: Computer Architecture, Compilers, Algorithms, Digital Logic Design, Computer Architecture, Signals & System Theory, Analog and Digital Electronics, Organization of Programming Languages, and Introduction to Computer Systems
 
 ## Work Experience
 
 ### Research Support Instruments | Software Engineering Intern (May 2019 - Present)
 - Implemented and tested the flight software for an onboard instrument packaged designed for consumer-grade quadcopters.
 - Utilized an Arduino Nano and an embedded device to transfer data remotely with a ground station, allowing for scientifically significant data collection with a +/-3% error threshold.
+
+### UMD Department of Computer Science | Teaching Assistant (Jan. 2020 - May 2020)
+- Tutored students in office hours on OCaml, Ruby, and general programming language concepts.
+- Assisted in the creation of course materials alongside 30 other undergraduate teaching assistants for CMSC330.
 
 ### Salem Art Association | Logistics Intern (Jun 2018. - Jul. 2018)
 - Volunteer coordinator of thirty people collecting trash, recycling, and composed over the course of a three-day festival hosting 30,000 people.
