@@ -1,17 +1,17 @@
 ---
 title: L-System Fractal Generator
-date: 2020-07-17 06:00:00
+date: 2020-07-17 05:00:00
 layout: page
 published: true
 ---
 
-### Using L-System Grammars to Represent Recursive Patterns
-## L-System Description
+## Using L-System Grammars to Represent Recursive Patterns
+### L-System Description
 Essentially, this program generate strings that adhere to forms dictated by a specified grammar. As a slight (and perhaps inaccurate) brief on l-systems: 
 
 L-systems are described as a 3-tuple: ```G = (V, omega, P)```. **V** represents the alphabet, or set of symbols containing all terminals and nonterminals utilized in the grammar. **Omega** is the starting point for the L-system, which is iterated over to produce the result. Finally, **P** is the set of rules (productions) that dictate how the system will behave given the number of symbols. A system with one production per non-terminal is deterministic, as it has a set outcome for all iterations. The code in this repo supports both deterministic and non-deterministic (stochastic) systems. See [here](https://en.wikipedia.org/wiki/L-system) for more information on L-systems.
 
-## Lsystems.py Overview
+### Lsystems.py Overview
 This project began as a simple exploration into the PyCairo graphics library and practice with simple Python operations. The core generation of the l-systems utilizes an iterative approach to replace the string character-by-character with their predefined replacement.
 
 For this project, the production rules were handled by classes ```LProduction``` and ```LProbabilisticProduction```, which both contain the rules for a specified non-terminal. The primary difference is the ```P``` field. For the standard production, this is merely a string literal. However, for the stochastic representation, this is represented as a sorted list of 2-tuples, containing a string literal and a floating point value in order to represent the probability of a given production being selected.
@@ -20,7 +20,7 @@ The systems themselves contain functions to check the given alphabet, find the p
 
 The GitHub repo for this project can be found [here.](https://github.com/jrichards15/lsystems-python)
 
-## Draw.py Overview
+### Draw.py Overview
 As a bonus, I decided to render the results of the l-system generation utilizing the PyCairo module, which provided a robust framework for drawing each figure. There are a few classes contained within this file. 
 
 The ```DrawSystem``` class provides a subclass for the previously-discussed ```LSystem``` class, which allows it to operate upon the same data model while adding functionality. It utilizes the superclass attributes to generate the L-system to be drawn, then utilizes the PyCairo library to render them. It also takes in parameters for line thickness, length, and image dimensions. As such, they are fully configurable. The number of iteration the l-system will be run for is also specified. Finally, it takes in a list of production rules to specify how each character be represented graphically.
@@ -33,7 +33,7 @@ Drawing results in the creation of a results directory and a .png file. The imag
 
 As of the current version, only the deterministic L-systems are supported due to the inheritance of the ```LSystem``` class rather than the ```ProbabilisticLSystem``` class. Perhaps I will go back and include a fix for this in the next version. For now, I have decided to leave it as-is. 
 
-## Example Outputs
+### Example Outputs
 Here are a few examples of the results:
 ![dragon-curve](/assets/img/dragoncurve.png){:class="img-responsive"}
 ![sierpinski-triangle](/assets/img/sierpinski.png){:class="img-responsive"}

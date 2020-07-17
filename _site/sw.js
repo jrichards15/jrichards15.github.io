@@ -1,8 +1,8 @@
-const version = '20200614231611';
+const version = '20200717173457';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2020/06/13/FUN-WITH-FRACTIONS/","/categories/","/blog/","/","/radio/","/resume/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/img/icon.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2020/07/17/LSYSTEM-FRACTALS/","/2020/06/13/FUN-WITH-FRACTIONS/","/categories/","/blog/","/","/radio/","/resume/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/img/icon.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
