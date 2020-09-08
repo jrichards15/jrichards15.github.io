@@ -9,6 +9,10 @@ For more information on UMD's radio station, see WMUC's official website [here](
 once-weekly for an hour. Below is an archive of all previous broadcasts, both on WMUC's digital (streaming) and FM (88.1) 
 station.
 
+
+### WMUC FM (Fall '20)
+- I have a show! It's difficult to tell how it's going to go with remote broadcasting, the current pandemic, etc. The timeslot is from 7PM - 8PM on Thursdays beginning on 9/09/2020. 
+
 ### WMUC FM (Spring '20)
 - March 6th, 2020  
 [Spotify Playlist](https://open.spotify.com/playlist/7A52IAPGRwAj2YG4YvJWNY?si=cKu34vLzRuCriij3gMv_Ew) / 
