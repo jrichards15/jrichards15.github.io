@@ -11,9 +11,12 @@ station.
 
 
 ### WMUC FM (Fall '20)
-- I have a show! It's difficult to tell how it's going to go with remote broadcasting, the current pandemic, etc. The timeslot is from 7PM - 8PM on Thursdays beginning on 9/09/2020. 
-
+- The timeslot is from 7PM - 8PM on Thursdays beginning on 9/17/2020. It is streamable from [here](http://www.wmuc.umd.edu/).
+- September 24th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/4y1mF6rQwiers4XP7I87pV?si=Q-Pkk9Z3TweZ_GigajXSGA) / 
+[Show](/assets/audio/Point_of_Failure_9_24_2020.mp3)
 ### WMUC FM (Spring '20)
+- Unfortunately, due to the pandemic, all shows on WMUC were cancelled in mid-March.
 - March 6th, 2020  
 [Spotify Playlist](https://open.spotify.com/playlist/7A52IAPGRwAj2YG4YvJWNY?si=cKu34vLzRuCriij3gMv_Ew) / 
 [Show](/assets/audio/Point_of_Failure_3_6_2020.mp3)
