@@ -12,6 +12,8 @@ station.
 
 ### WMUC FM (Fall '20)
 - The timeslot is from 7PM - 8PM on Thursdays beginning on 9/17/2020. It is streamable from [here](http://www.wmuc.umd.edu/).
+- October 8th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/2ha0FPYQvDE9hxJRW3CNhf?si=bV49jwLJTLaVtH5IlesvWg) / [Show](/assets/audio/Point_of_Failure_10_8_2020.mp3)
 - October 1st, 2020
 [Spotify Playlist](https://open.spotify.com/playlist/5xY9ajczBIqfNn35duNB2J?si=zrOmBeBMSOGE7BDWtIASFw) / [Show](/assets/audio/Point_of_Failure_10_1_2020.mp3)
 - September 24th, 2020
