@@ -8,11 +8,12 @@ I'm a computer engineering senior with interest in embedded programming and audi
 
 For projects and general notes, see the __Blog__ section for more information. This page contains all posts pertaining to my personal interests. For a synopsis of my work experience and academics, see __Resume__. For an archive and description of my radio broadcasts, see __Radio__.
 
-## Current Classes (Fall '20)
-- CMSC412: Operating Systems
-- CMSC425: Game Programming
-- ENEE436: Foundations of Machine Learning
-- MATH241: Calculus III
+## Current Classes (Spring '21)
+- ENEE440: Microprocessors
+- ENEE408A: Capstone, Microprocessor-Based Design
+- ENEE445: Computer Laboratory
+- MATH461: Linear Algebra
+- ASTR230: The Science & Fiction of Planetary Systems
 - ENGL498: Advanced Fiction Workshop
 
 ## Ongoing Projects (without Blog posts)
