@@ -7,17 +7,35 @@ title: Radio Show
 I'm a DJ for UMD's on-campus, student-run radio station! I broadcast all semester long. 
 For more information on UMD's radio station, see WMUC's official website [here](http://www.wmuc.umd.edu/). My show is 
 once-weekly for an hour. Below is an archive of all previous broadcasts, both on WMUC's digital (streaming) and FM (88.1) 
-station.
+station. It is streamable from [here](http://www.wmuc.umd.edu/).
 
+### WMUC FM (Spring '21)
+- Details forthcoming! It's my last semester at UMD, so I'm still waiting for a timeslot.
 
 ### WMUC FM (Fall '20)
-- The timeslot is from 7PM - 8PM on Thursdays beginning on 9/17/2020. It is streamable from [here](http://www.wmuc.umd.edu/).
+- December 10th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/6RDlQOri6fmEgpTAn9mhXU?si=3EICsazwRpOqOZ4gqtVHnQ) / Show
+- December 3rd, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/0HXnyt05rKZeMWEbmQ8GXS?si=aTYhwkkJRLWS8YshkVjZ_w) / Show
+- November 19th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/5P6QNl7Cozw5i44OGq9LL9?si=5-rku3_LSLKFdvyFsGiGUQ) / Show
+- November 12th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/5SWyTuValYDoCFz7kRP2oz?si=OHgUepG4TSO2FdcgNyZ_CA) / Show
+- November 5th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/20nSTQ5W8OzZI6KU27RK1b?si=wEk1QXbmS4er4PQco8yu4A) / Show
+- October 29th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/7jUjmxtp5TBD9OzS3VMutv?si=oorkeAI9TkK97Jr4cpYpaQ) / Show
+- October 22nd, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/2NYfR6HWLA10P3nfUxE8ET?si=cWSJK2lWTSa05Gzvuc4D6Q) / Show
+- October 15th, 2020
+[Spotify Playlist](https://open.spotify.com/playlist/0yORVZ5Pzu6EhdOdbGjAQi?si=PJSLkI_DTS-gjJwGzb_6nA) / Show
 - October 8th, 2020
 [Spotify Playlist](https://open.spotify.com/playlist/2ha0FPYQvDE9hxJRW3CNhf?si=bV49jwLJTLaVtH5IlesvWg) / [Show](/assets/audio/Point_of_Failure_10_8_2020.mp3)
 - October 1st, 2020
 [Spotify Playlist](https://open.spotify.com/playlist/5xY9ajczBIqfNn35duNB2J?si=zrOmBeBMSOGE7BDWtIASFw) / [Show](/assets/audio/Point_of_Failure_10_1_2020.mp3)
 - September 24th, 2020
 [Spotify Playlist](https://open.spotify.com/playlist/4y1mF6rQwiers4XP7I87pV?si=Q-Pkk9Z3TweZ_GigajXSGA) / [Show](/assets/audio/Point_of_Failure_9_24_2020.mp3)
+
 ### WMUC FM (Spring '20)
 - Unfortunately, due to the pandemic, all shows on WMUC were cancelled in mid-March.
 - March 6th, 2020  
