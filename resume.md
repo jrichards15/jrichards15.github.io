@@ -2,25 +2,29 @@
 layout: page
 title: Resume
 ---
-A PDF version of this page is available [here](/assets/misc/JR_Resume_F2020.pdf).  
-__Last updated: September 20th, 2020__
+A PDF version of this page is available [here](/assets/misc/JR_Resume_S2022.pdf).  
+__Last updated: February 1st, 2022__
 
 ## Education
 
-### University of Maryland, College Park | Clark School of Engineering (Expected May 2021)
+### University of Maryland, College Park | Clark School of Engineering (May 2021)
 - BS, Computer Engineering; Cumulative GPA: 3.9
 - Courses: Operating Systems, Foundations of Machine Learning, Computer Architecture, Compilers, Algorithms, Digital Logic Design, Computer Architecture, Signals & System Theory, Analog and Digital Electronics, and Organization of Programming Languages
 
 ## Work Experience
 
-### UMD Department of Computer Science | Teaching Assistant (Jan. 2020 - Present)
-- Tutored students in office hours on OCaml, Ruby, and general programming language concepts.
-- Assisted in the creation of course materials alongside 30 other undergraduate teaching assistants for CMSC330.
+### AST SpaceMobile | Associate Flight Software Engineer (Jun. 2021 - Present)
+- Implemented feature updates for low-level and application layer software designed to run on an assortment of ARM Cortex-M7 microcontrollers.
+- Performed board bring-up, test procedures, and hardware maintenance & troubleshooting in an ESD-controlled lab setting utilizing industry-standard tools and components.
 
-### Research Support Instruments | Software Engineering Intern (May 2019 - Sept. 2020)
+### Research Support Instruments | Software Engineering Intern (May 2019 - Jan. 2021)
 - Implemented and tested the flight software for an onboard instrument package designed for consumer-grade quadcopters.
 - Utilized an Arduino Nano and an embedded device to transfer data remotely with a ground station, allowing for scientifically significant data collection with a +/-3% error threshold.
 - Implemented a custom desktop application to enhance user interactions with the instrument package in Python.
+
+### UMD Department of Computer Science | Teaching Assistant (Jan. 2020 - Dec. 2020)
+- Tutored students in office hours on OCaml, Ruby, and general programming language concepts.
+- Assisted in the creation of course materials alongside 30 other undergraduate teaching assistants for CMSC330.
 
 ### Salem Art Association | Logistics Intern (Jun 2018. - Jul. 2018)
 - Volunteer coordinator of thirty people collecting trash, recycling, and composed over the course of a three-day festival hosting 30,000 people.
@@ -63,5 +67,7 @@ __Last updated: September 20th, 2020__
 - LaTeX
 - Linux
 - OCaml
-- Racket
 - Ruby
+- ARM Architecture
+- Assembly
+- PCB Design
