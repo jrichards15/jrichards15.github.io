@@ -55,7 +55,7 @@ social:
   name: Jack Richards
   links:
     - https://twitter.com/spooonsoup
-    - https://www.linkedin.com/in/john-richards-2b196b160
+    - https://www.linkedin.com/in/jack-richards-2b196b160/
     - https://github.com/jrichards15
 
 # Footer nav
@@ -65,7 +65,7 @@ navigation_footer:
 
 social_links:
   Twitter: https://twitter.com/spooonsoup
-  LinkedIn: https://www.linkedin.com/in/john-richards-2b196b160
+  LinkedIn: https://www.linkedin.com/in/jack-richards-2b196b160/
   GitHub: https://github.com/jrichards15
 # Collections
 collections:
