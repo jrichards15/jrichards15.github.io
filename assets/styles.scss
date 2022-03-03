@@ -10,5 +10,21 @@ $headingColour: #006d77;
 $bodyColour: #d6ba73;
 $hoverColour: #bf05bc;
 $captionColour: #b3365d;
+
+$headingtype: (
+  font-family: '"Helvetica", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$bodytype: (
+  font-family: "Trebuchet MS, serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
 @import "alembic";
 
