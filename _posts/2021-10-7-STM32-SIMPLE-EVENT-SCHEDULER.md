@@ -21,7 +21,7 @@ Fortunately, SysTick gives us some simple tools for implementing time-based sche
 
 For our notion of tasks, we will define it fairly simply: a task is an operation that must be run once, at a predetermined time specified by its sleep time. Once run, it can be removed from the execution queue and deleted. There needs to be some way to collect all these tasks in a list somewhere, so they can be executed in order. For my implementation, I represented these requirements in a structure.
 
-![scheduler-struct](/assets/img/scheduler_struct.png){:class="img-responsive"}
+![scheduler-struct](/assets/img/scheduler_struct.PNG){:class="img-responsive"}
 
 The struct contains a few vital pieces of information: a function pointer for the operation to be performed, the amount of time that the scheduler should wait before executing the operation, the amount of time the task has already been sleeping, and a small 4-byte buffer containing the arguments to be passed to the function pointer. In the vast majority of cases, the function pointer passed in is a lambda, which will utilize the data in the buffer to form the parameters to the underlying operations. This standardizes the scheduler, allowing it to perform a wide variety of functions without any major adjustments to its underlying code, which facilitates future expansion. 
 
