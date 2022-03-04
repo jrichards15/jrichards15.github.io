@@ -26,13 +26,13 @@ plugins:
 # Site settings
 url: 'https://jrichards.github.io'
 baseurl: ''
-title: A (Mostly Empty) Student Portfolio
-description: Welcome! This is a showcase of all of my work thus far. It consists primarily of personal projects and other interesting (I hope!) tidbits. All student work isn't allowed to be shared, hence the somewhat empty website.
+title: A (Mostly Empty) Professional Portfolio
+description: Welcome! This is a showcase of all of my work thus far. It consists primarily of personal projects and other interesting (I hope!) tidbits.
 permalink: pretty
-logo: "/assets/img/icon.png"
+logo: "/assets/img/favicon.ico"
 
 # Pagination
-paginate: 5
+paginate: 8
 paginate_path: blog/page:num
 
 # Header nav
