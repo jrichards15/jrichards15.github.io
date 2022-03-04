@@ -1,5 +1,5 @@
 ---
-title: STM32 LCD User Interface
+title: Flexible Synthesis Framework
 date: 2021-10-15 08:00:00
 layout: page
 published: true
