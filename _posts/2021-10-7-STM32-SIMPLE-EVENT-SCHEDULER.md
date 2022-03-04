@@ -6,7 +6,6 @@ published: true
 ---
 
 ## Scheduling Important I/O with SysTick
-
 Given the previous two blog posts on using the blocking I/O HAL drivers for I2C to control a screen, and my lack of success in implementing interrupt-driven or DMA-based I/O, I needed to implement a scheme for asynchronous transmission of commands to the HD4770-based LCD. Since I've integrated the UI into a real-time audio project, the vast majority of processing time must be utilized to generate signed 16-bit samples. As such, using a screen with semi-strict timing requirements via an I2C I/O expander can cause a lot of wasted CPU cycles, which is definitely not what we want.
 
 ### Using SysTick Interrupts
